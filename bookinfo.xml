@@ -1,0 +1,56 @@
+<!DOCTYPE bookinfo PUBLIC '-//OASIS//DTD DocBook XML V4.5//EN' 'http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd'><bookinfo>
+
+  <othercredit role='proofreader'>
+    <firstname>FIX</firstname>
+    <surname>ME!</surname>
+  </othercredit>
+  <othercredit role='interiordesigner'>
+    <firstname>FIX</firstname>
+    <surname>ME!</surname>
+  </othercredit>
+  <othercredit role='illustrator'>
+    <firstname>Robert</firstname>
+    <surname>Romano</surname>
+  </othercredit>
+
+  <!-- All rights reserved. -->
+  <publisher>
+    <publishername>O&#x2019;Reilly Media, Inc.    </publishername>
+    <address format='linespecific'>
+      <street>1005 Gravenstein Highway North</street>
+      <city>Sebastopol</city>
+      <state>CA</state>
+      <postcode>95472</postcode>
+    </address>
+  </publisher>
+
+  <legalnotice role='printlocation'>
+    <para>Printed in the United States of America.</para>
+  </legalnotice>
+
+  <legalnotice role='printer'>
+    <para>[?]</para>
+  </legalnotice>
+
+  <legalnotice role='use'>
+    <para>O&#x2019;Reilly books may be purchased for educational, business, or sales promotional use. Online editions are also available for most 
+          titles (<ulink role='orm:hideurl:ital' url='http://my.safaribooksonline.com/?portal=oreilly'>http://my.safaribooksonline.com</ulink>). For more information, contact our corporate/institutional sales department:
+          (800) 998-9938 or <email>corporate@oreilly.com</email>.  </para>
+  </legalnotice>
+
+  <legalnotice role='trademarks'>
+    <para>Nutshell Handbook, the Nutshell Handbook logo, and the O&#x2019;Reilly logo
+          are registered trademarks of O&#x2019;Reilly Media, Inc. !!FILL THIS IN!!
+          and related trade dress are trademarks of O&#x2019;Reilly Media, Inc.    </para>
+    <para>Many of the designations used by manufacturers and sellers to distinguish
+          their products are claimed as trademarks. Where those designations appear
+          in this book, and O&#x2019;Reilly Media, Inc. was aware of a trademark claim,
+          the designations have been printed in caps or initial caps.    </para>
+  </legalnotice>
+
+  <legalnotice role='damages'>
+    <para>While every precaution has been taken in the preparation of this book,
+        the publisher and authors assume no responsibility for errors or omissions, 
+        or for damages resulting from the use of the information contained herein.</para>
+  </legalnotice>
+<isbn>9781449322014</isbn><edition>1</edition><author><firstname>brian d</firstname><surname>foy</surname><authorblurb><para>brian d foy is a prolific Perl trainer and writer, and runs The Perl Review to help people use and understand Perl through educational, consulting, code review, and more. He&apos;s a frequent speaker at Perl conferences. He&apos;s the co-author of Learning Perl, Intermediate Perl, and Effective Perl Programming, and the author of Mastering Perl. He was been an instructor and author for Stonehenge Consulting Services from 1998 to 2009, a Perl user since he was a physics graduate student, and a die-hard Mac user since he first owned a computer. He founded the first Perl user group, the New York Perl Mongers, as well as the Perl advocacy nonprofit Perl Mongers, Inc., which helped form more than 200 Perl user groups across the globe. He maintains the perlfaq portions of the core Perl documentation, several modules on CPAN, and some stand-alone scripts.</para></authorblurb></author><editor><firstname>Shawn</firstname><surname>Wallace</surname></editor><copyright><year>2010</year><holder>O&#x2019;Reilly Media    </holder></copyright><editor role='production'><firstname/><surname/></editor><editor role='copy'><firstname/><surname/></editor><othercredit role='indexer'><firstname/><surname/></othercredit><othercredit role='coverdesigner'><firstname/><surname/></othercredit><printhistory><formalpara><title>First Edition</title><para>January, -4712</para></formalpara></printhistory></bookinfo>
