@@ -1,0 +1,33 @@
+<sect1 id="_data_analysis_using_sql_and_excel">
+<title>Data Analysis Using SQL and Excel</title>
+<simpara><emphasis>By Gordon S. Linoff</emphasis></simpara>
+<simpara><emphasis>John Wiley &amp; Sons, October 2007</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470099513</emphasis></simpara>
+<simpara><emphasis>744 pages, $45.00 US</emphasis></simpara>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="images/9780470099513_s.jpg" contentwidth="75"/>
+  </imageobject>
+</mediaobject>
+</informalfigure>
+<simpara>In this book, one of the leading experts on business data mining shows you how to leverage SQL and Excel to perform sophisticated types of business analysis, without the expense of data mining tools and consultants. Each chapter discusses why and when to perform a particular type of business analysis to obtain a useful business result, with helpful tips and hints, and how to design and perform the analysis using SQL and Excel, including what the results look like in SQL and Excel.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/databases/business-intelligence/9780470099513?cid=1109-biblio-data-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+
+<sect1 id="_microsoft_excel_2010_data_analysis_and_business_modeling">
+<title>Microsoft Excel 2010: Data Analysis and Business Modeling</title>
+<simpara><emphasis>By Wayne L. Winston</emphasis></simpara>
+<simpara><emphasis>Microsoft Press, January 2011</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780735656864</emphasis></simpara>
+<simpara><emphasis>720 pages, $49.99 US</emphasis></simpara>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="images/9780735656864_s.jpg" contentwidth="75"/>
+  </imageobject>
+</mediaobject>
+</informalfigure>
+<simpara>This book will help you master the data analysis and modeling techniques in Excel 2010 that help you transform data into bottom-line results. These materials have been tested while teaching thousands of analysts working for Fortune 500 corporations and government agencies, including the U.S. Army. In this book you’ll learn about statistics, forecasting, optimization models, Monte Carlo simulation, inventory modeling, and the mathematics of waiting in line. You will also learn about some recent developments in business thinking, such as real options, customer value, and mathematical pricing models. You will even learn how to predict U.S. presidential elections, how to set football point spreads, how to determine the probability of winning at craps, and how to determine the probability of a specific team winning an NCAA tournament. These examples are interesting and fun, and they teach you a lot about solving business problems with Excel.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/databases/business-intelligence/9780735656864?cid=1109-biblio-data-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
