@@ -7,7 +7,7 @@
   <!-- $ xmllint - -xinclude - -noout - -postvalid book.xml -->
 
 <title>Perl Bibliography</title>
-<xi:include href='bookinfo.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
-<xi:include href='ch00.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
-<xi:include href='ch01.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='xml/bookinfo.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='xml/ch00.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='xml/ch01.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
 </book>

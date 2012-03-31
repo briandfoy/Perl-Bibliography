@@ -1,0 +1,42 @@
+Title: Programming Perl
+Author: Tom Christiansen
+Author: brian d foy
+Author: Larry Wall
+Author: Jon Orwant
+ISBN10:
+ISBN13: 9780596004927
+Cover:
+Publisher: O'Reilly Media
+PubDate: February 2012
+PageCount: 1184
+PriceUS: $54.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596004927.do
+
+Adopted as the undisputed Perl bible soon after the first edition
+appeared in 1991, Programming Perl is still the go-to guide for this
+highly practical language. Perl began life as a super-fueled text
+processing utility, but quickly evolved into a general purpose
+programming language that’s helped hundreds of thousands of
+programmers, system administrators, and enthusiasts, like you, get
+your job done.
+
+In this much-anticipated update to "the Camel," three renowned Perl
+authors cover the language up to its current version, Perl 5.14, with
+a preview of features in the upcoming 5.16. In a world where Unicode
+is increasingly essential for text processing, Perl offers the best
+and least painful support of any major language, smoothly integrating
+Unicode everywhere—including in Perl’s most popular feature: regular
+expressions.
+
+Important features covered by this update include:
+
+New keywords and syntax
+I/O layers and encodings
+New backslash escapes
+Unicode 6.0
+Unicode grapheme clusters and properties
+Named captures in regexes
+Recursive and grammatical patterns
+Expanded coverage of CPAN
+Current best practices

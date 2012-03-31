@@ -1,0 +1,40 @@
+Title: Mastering Perl
+Author: brian d foy
+ISBN10: 0596527241
+ISBN13: 978-0596527242
+Cover:
+Publisher: O'Reilly Media
+PubDate: July 2007
+PageCount: 344
+PriceUS: $39.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596527242.do
+AmazonLink: http://www.amazon.com/Mastering-Perl-brian-d-foy/dp/0596527241/ref=sr_1_1?s=books&ie=UTF8&qid=1333182166&sr=1-1
+
+This is the third in O'Reilly's series of landmark Perl tutorials,
+which started with Learning Perl, the bestselling introduction that
+taught you the basics of Perl syntax, and Intermediate Perl, which
+taught you how to create re-usable Perl software. Mastering Perl pulls
+everything together to show you how to bend Perl to your will. It
+convey's Perl's special models and programming idioms.
+
+This book isn't a collection of clever tricks, but a way of thinking
+about Perl programming so you can integrate the real-life problems of
+debugging, maintenance, configuration, and other tasks you encounter
+as a working programmer.
+
+The book explains how to:
+
+Use advanced regular expressions, including global matches, lookarounds, readable regexes, and regex debugging
+Avoid common programing problems with secure programming techniques
+Profile and benchmark Perl to find out where to focus your improvements
+Wrangle Perl code to make it more presentable and readable
+See how Perl keeps track of package variables and how you can use that for some powerful tricks
+Define subroutines on the fly and turn the tables on normal procedural programming.
+Modify and jury rig modules to fix code without editing the original source
+Let your users configure your programs without touching the code
+Learn how you can detect errors Perl doesn't report, and how to tell users about them
+Let your Perl program talk back to you by using Log4perl
+Store data for later use in another program, a later run of the same program, or to send them over a network
+Write programs as modules to get the benefit of Perl's distribution and testing tools
+Appendices include "brian's Guide to Solving Any Perl Problem" to improve your troubleshooting skills, as well as suggested reading to continue your Perl education. Mastering Perl starts you on your path to becoming the person with the answers, and, failing that, the person who knows how to find the answers or discover the problem.

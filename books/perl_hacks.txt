@@ -1,0 +1,36 @@
+Title: Perl Hacks: Tips & Tools for Programming, Debugging, and Surviving
+Author: chromatic
+Author: Damian Conway
+Author: Curtis "Ovid" Poe
+ISBN10: 
+ISBN13: 
+Cover:
+Publisher: O'Reilly Media
+PubDate: May 2006
+PageCount: 304
+PriceUS: $29.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596526740.do
+AmazonLink:
+
+With more than a million dedicated programmers, Perl has proven to be
+the best computing language for the latest trends in computing and
+business. While other languages have stagnated, Perl remains fresh,
+thanks to its community-based development model, which encourages the
+sharing of information among users. This tradition of
+knowledge-sharing allows developers to find answers to almost any Perl
+question they can dream up.
+
+And you can find many of those answers right here in Perl Hacks. Like
+all books in O'Reilly's Hacks Series, Perl Hacks appeals to a variety
+of programmers, whether you're an experienced developer or a dabbler
+who simply enjoys exploring technology. Each hack is a short
+lesson--some are practical exercises that teach you essential skills,
+while others merely illustrate some of the fun things that Perl can
+do. Most hacks have two parts: a direct answer to the immediate
+problem you need to solve right now and a deeper, subtler technique
+that you can adapt to other situations. Learn how to add CPAN
+shortcuts to the Firefox web browser, read files backwards, write
+graphical games in Perl, and much more.
+
+

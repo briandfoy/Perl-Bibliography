@@ -1,0 +1,53 @@
+Title: Mastering Perl for Bioinformatics
+Author: James Tisdall
+ISBN10: 
+ISBN13: 9780596003074
+Cover:
+Publisher: O'Reilly Media
+PubDate: September 2003
+PageCount: 398
+PriceUS: $49.99 
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596003074.do
+AmazonLink:
+
+Historically, programming hasn't been considered a critical skill for
+biologists. But now, with access to vast amounts of biological data
+contained in public databases, programming skills are increasingly in
+strong demand in biology research and development. Perl, with its
+highly developed capacities in string handling, text processing,
+networking, and rapid prototyping, has emerged as the programming
+language of choice for biological data analysis.
+
+Mastering Perl for Bioinformatics covers the core Perl language and
+many of its module extensions, presenting them in the context of
+biological data and problems of pressing interest to the biological
+community. This book, along with Beginning Perl for Bioinformatics,
+forms a basic course in Perl programming. This second volume finishes
+the basic Perl tutorial material (references, complex data structures,
+object-oriented programming, use of modules--all presented in a
+biological context) and presents some advanced topics of considerable
+interest in bioinformatics.
+
+The range of topics covered in Mastering Perl for Bioinformatics
+prepares the reader for enduring and emerging developments in critical
+areas of bioinformatics programming such as:
+
+Gene finding
+String alignment
+Methods of data storage and retrieval (SML and databases)
+Modeling of networks (graphs and Petri nets)
+Graphics (Tk)
+Parallelization
+Interfacing with other programming languages
+Statistics (PDL)
+Protein structure determination
+Biological models of computation (DNA Computers)
+
+Biologists and computer scientists who have conquered the basics of
+Perl and are ready to move even further in their mastery of this
+versatile language will appreciate the author's well-balanced approach
+to applying Perl's analytical abilities to the field of
+bioinformatics. Full of practical examples and real-world biological
+problem solving, this book is a must for any reader wanting to move
+beyond beginner level Perl in bioinformatics.

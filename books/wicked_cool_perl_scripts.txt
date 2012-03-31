@@ -1,0 +1,22 @@
+Title: Wicked Cool Perl Scripts
+Author: Steve Oualline
+ISBN10: 
+ISBN13: 9781593270629
+Cover:
+Publisher: No Starch Press
+PubDate: February 2006
+PageCount: 304
+PriceUS: $29.95
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9781593270629.do
+AmazonLink:
+
+Most Perl programmers have been frustrated at one time or another
+because the system just wouldn't do what they wanted it to do. There
+was that one simple and obvious utility that was missing that would
+make life so much easier: A tool to get a stock quote, show off a
+photograph collection, or even display a collection of favorite
+comics. Wicked Cool Perl Scripts is about writing those utilities
+quickly and easily. A collection of handy utilities that solves
+difficult problems, Wicked Cool Perl Scripts is a great resource for
+the savvy Perl programmer.

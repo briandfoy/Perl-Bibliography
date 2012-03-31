@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<root>
+<books>
+<book id="">
+	<title></title>
+	<isbn type="isbn10"></isbn>
+	<related_isbn>
+		<isbn type="isbn10"></isbn>	
+	</related_isbn>
+	<edition></edition>
+	<authors>
+		<author id=""/>
+		<author id=""/>
+		<author id=""/>
+		<author id=""/>
+	</authors>
+	<publisher id=""/>
+	<publication_date></publication_date>
+	<page_count></page_count>
+	<language></language>
+	<related_to>
+		<book id="">
+	</related_to>
+	<previous_editions>
+		<book id="">
+	</previous_editions>		
+	<subsequent_editions>
+		<book id="">
+	</subsequent_editions>
+</book>
+
+<authors>
+	<author id="">
+		<name>
+			<display lang=""></display>
+			<sort_as lang=""></sort>
+		</name>
+	</author>
+</authors>
+
+</root>

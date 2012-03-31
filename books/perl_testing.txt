@@ -1,0 +1,53 @@
+Title: Perl Testing: A Developer's Notebook
+Author: Ian Langworth
+Author: chromatic
+ISBN10: 
+ISBN13: 9780596100926
+Cover:
+Publisher: O'Reilly Media
+PubDate: July 2005
+PageCount: 208
+PriceUS: $29.95
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596100926.do
+AmazonLink:
+
+
+Is there any sexier topic in software development than software
+testing? That is, besides game programming, 3D graphics, audio,
+high-performance clustering, cool websites, et cetera? Okay, so
+software testing is low on the list. And that's unfortunate, because
+good software testing can increase your productivity, improve your
+designs, raise your quality, ease your maintenance burdens, and help
+to satisfy your customers, coworkers, and managers.
+
+Perl has a strong history of automated tests. A very early release of
+Perl 1.0 included a comprehensive test suite, and it's only improved
+from there. Learning how Perl's test tools work and how to put them
+together to solve all sorts of previously intractable problems can
+make you a better programmer in general. Besides, it's easy to use the
+Perl tools described to handle all sorts of testing problems that you
+may encounter, even in other languages.
+
+Like all titles in O'Reilly's Developer's Notebook series, this "all
+lab, no lecture" book skips the boring prose and focuses instead on a
+series of exercises that speak to you instead of at you.
+
+Perl Testing: A Developer's Notebook will help you dive right in and:
+
+Write basic Perl tests with ease and interpret the results
+Apply special techniques and modules to improve your tests
+Bundle test suites along with projects
+Test databases and their data
+Test websites and web projects
+Use the "Test Anything Protocol" which tests projects written in languages other than Perl
+
+With today's increased workloads and short development cycles, unit
+tests are more vital to building robust, high-quality software than
+ever before. Once mastered, these lessons will help you ensure
+low-level code correctness, reduce software development cycle time,
+and ease maintenance burdens.
+
+You don't have to be a die-hard free and open source software
+developer who lives, breathes, and dreams Perl to use this book. You
+just have to want to do your job a little bit better.

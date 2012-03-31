@@ -1,0 +1,46 @@
+Title: Mastering Perl/Tk: Graphical User Interfaces in Perl
+Author: Stephen Lidie
+Author: Nancy Walsh
+ISBN10: 
+ISBN13: 9781565927162
+Cover:
+Publisher: O'Reilly Media
+PubDate: January 2002
+PageCount: 768
+PriceUS: $49.99 
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9781565927162.do
+AmazonLink:
+
+Perl/Tk is the marriage of the Tk graphical toolkit with Perl, the
+powerful programming language used primarily for system
+administration, web programming, and database manipulation. With
+Perl/Tk, you can build Perl programs with an attractive, intuitive GUI
+interface with all the power of Perl behind it.
+
+Mastering Perl/Tk is the "bible" of Perl/Tk: It's not only a great
+book for getting started, but the best reference for learning the
+techniques of experienced Perl/Tk programmers. The first half of the
+book contains the basics on how to use Perl/Tk, and then branches out
+into advanced applications with a series of extensive program
+examples. The result is a book accessible for novices, and invaluable
+for experienced programmers ready to learn the next step in the
+elegant and effective use of Perl/Tk. The book includes:
+
+An introduction to each of the basic Perl/Tk widgets and geometry managers
+A dissection of the MainLoop, including how to use callbacks and bindings effectively
+Coverage of the Tix widgets, an extended set of widgets that are a part of the standard Perl/Tk distribution
+Working with images in Perl/Tk, including bitmaps, pixmaps, photos, and how to compose a compound image type
+How to create custom mega-widgets in Perl/Tk, both composite and derived
+Handling interprocess communication with Perl/Tk, both with standard Unix utilities (pipes and sockets) and with the send command designed for direct communication between Tk applications
+Developing your own Tk widget in the C language
+Examples of web applications written with Perl/Tk and the LWP library
+
+The book also includes appendices on installing Perl/Tk, a complete
+quick-reference for each standard widget, and listings of all the
+extended examples in the book.
+
+Nancy Walsh is the author of Learning Perl/Tk, and Steve Lidie wrote
+the Perl/Tk Pocket Reference as well as a series of Perl/Tk articles
+in The Perl Journal. Together, they have written Mastering Perl/Tk to
+be the definitive guide to Perl/Tk.

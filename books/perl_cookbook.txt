@@ -1,0 +1,55 @@
+Title: Perl Cookbook, 2nd Edition
+Author: Tom Christiansen
+Author: Nathan Torkington
+ISBN10: 
+ISBN13: 9780596003135
+Cover:
+Publisher: O'Reilly Media
+PubDate: August 2003 
+PageCount: 966
+PriceUS: $49.95
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596003135.do
+AmazonLink:
+
+Find a Perl programmer, and you'll find a copy of Perl Cookbook
+nearby. Perl Cookbook is a comprehensive collection of problems,
+solutions, and practical examples for anyone programming in Perl. The
+book contains hundreds of rigorously reviewed Perl "recipes" and
+thousands of examples ranging from brief one-liners to complete
+applications.
+
+The second edition of Perl Cookbook has been fully updated for Perl
+5.8, with extensive changes for Unicode support, I/O layers, mod_perl,
+and new technologies that have emerged since the previous edition of
+the book. Recipes have been updated to include the latest modules. New
+recipes have been added to every chapter of the book, and some
+chapters have almost doubled in size.
+
+Covered topic areas include:
+
+Manipulating strings, numbers, dates, arrays, and hashes
+Pattern matching and text substitutions
+References, data structures, objects, and classes
+Signals and exceptions
+Screen addressing, menus, and graphical applications
+Managing other processes
+Writing secure scripts
+Client-server programming
+Internet applications programming with mail, news, ftp, and telnet
+CGI and mod_perl programming
+Web programming
+
+Since its first release in 1998, Perl Cookbook has earned its place in
+the libraries of serious Perl users of all levels of expertise by
+providing practical answers, code examples, and mini-tutorials
+addressing the challenges that programmers face. Now the second
+edition of this bestselling book is ready to earn its place among the
+ranks of favorite Perl books as well.
+
+Whether you're a novice or veteran Perl programmer, you'll find Perl
+Cookbook, 2nd Edition to be one of the most useful books on Perl
+available. Its comfortable discussion style and accurate attention to
+detail cover just about any topic you'd want to know about. You can
+get by without having this book in your library, but once you've tried
+a few of the recipes, you won't want to.

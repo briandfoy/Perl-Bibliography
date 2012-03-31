@@ -1,0 +1,43 @@
+Title: Perl Debugger Pocket Reference
+Author: Richard Foley
+ISBN10: 
+ISBN13: 9780596005030
+Cover:
+Publisher: O'Reilly Media
+PubDate: January 2004 
+PageCount: 142
+PriceUS: $9.95
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596005030.do 
+AmazonLink:
+
+Most Perl programmers know about the Perl debugger--the nifty little
+built-in utility that you can use to fully debug any programs that you
+write. Inside the interactive debugger environment, you're prompted
+for commands that let you examine your source code, set breakpoints,
+dump out function call stacks, change values of variables, and much
+more. It's so convenient that some programmers run it just to test out
+Perl constructs as they create a program. But although it's on their
+radar, not many Perl programmers take the time to master the debugger.
+That's where the Perl Debugger Pocket Reference comes in.
+
+This little book provides a quick and convenient path to mastery of
+the Perl debugger and its commands. Written by a core member of the
+Perl debugger development team, it's an ideal quick reference to
+debugger commands, as well as a detailed tutorial on how to get
+started. The Perl Debugger Pocket Reference provides complete coverage
+in a conveniently small package.
+
+Maybe you write code so clean you never have to look at it twice. Or
+perhaps you'd rather focus your energies on writing clean code, rather
+than learning about the debugger. But if you need to learn about the
+Perl debugger in a hurry, the Perl Debugger Pocket Reference is the
+book you'll want to have close by. And you can always keep a copy on
+hand to share with programmers who need it more than you do.
+
+O'Reilly's Pocket References have become a favorite among programmers
+everywhere. By providing a wealth of important details in a concise,
+well-organized format, these handy books deliver just what you need to
+complete the task at hand. When you've reached a sticking point in
+your work and need to get to a solution quickly, the new Perl Debugger
+Pocket Reference will get you back on the right track.

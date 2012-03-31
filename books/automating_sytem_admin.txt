@@ -1,0 +1,35 @@
+Title: Automating System Administration with Perl, 2nd Edition
+Author: David N. Blank-Edelman
+ISBN10: 
+ISBN13: 
+Cover:
+Publisher: O'Reilly Media
+PubDate: May 2009
+PageCount: 668
+PriceUS: $39.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596006396.do
+AmazonLink: 
+
+If you do systems administration work of any kind, you have to deal
+with the growing complexity of your environment and increasing demands
+on your time. Automating System Administration with Perl, Second
+Edition, not only offers you the right tools for your job, but also
+suggests the best way to approach specific problems and to securely
+automate recurring tasks.
+
+Updated and expanded to cover the latest operating systems,
+technologies, and Perl modules, this edition of the "Otter Book" will
+help you:
+
+Manage user accounts
+Monitor filesystems and processes
+Work with configuration files in important formats such as XML and YAML
+Administer databases, including MySQL, MS-SQL, and Oracle with DBI
+Work with directory services like LDAP and Active Directory
+Script email protocols and spam control
+Effectively create, handle, and analyze log files
+Administer network name and configuration services, including NIS, DNS and DHCP
+Maintain, monitor, and map network services, using technologies and tools such as SNMP, nmap, libpcap, GraphViz and RRDtool
+Improve filesystem, process, and network security
+This edition includes additional appendixes to get you up to speed on technologies such as XML/XPath, LDAP, SNMP, and SQL. With this book in hand and Perl in your toolbox, you can do more with less -- fewer resources, less effort, and far less hassle.

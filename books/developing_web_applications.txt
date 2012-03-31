@@ -1,0 +1,56 @@
+Title: Developing Web Applications with Apache, MySQL, memcached, and Perl
+Author: Patrick Galbraith
+ISBN10: 0470414642
+ISBN13: 978-0470414644
+Cover:
+Publisher: Wiley / Wrox
+PubDate: June 2009
+PageCount: 864
+PriceUS:  $49.99
+SafariLink:
+WebsiteLink: 
+AmazonLink:
+
+Adding a cache layer to the popular LAMP stack is becoming the common
+solution to significantly reduce the load on back-end databases, and
+also allows for better web application performance. This new caching
+component is represented by another "m" in LAMMP, which stands for
+memcached—a high-performance, distributed memory object caching system
+that provides caching for web applications. The author walks you
+through the process of using Perl to develop web applications both in
+terms of the front-end display logic as well as the back-end data
+retrieval from MySQL and memcached. You also see how to configure the
+Apache web server to run these mod_perl applications.
+
+You'll discover that MySQL and memcached are where the data is stored,
+and Apache is the server that hosts this functionality. You'll also
+examine each system while you learn how to install, set up, and
+administer it.
+
+The book shows you how to put each of these systems together so you
+can start building successful applications. Helpful examples put in
+practice the information covered throughout the book and a
+problem-solving chapter offers real-world problems and the process of
+how you might go about finding a solution to them.
+
+What you will learn from this book
+
+How to install, configure, and work with MySQL particularly basic concepts involving data, joins, and indexes as well as advanced usage of triggers, stored procedures, user-defined functions, storage engine usage, and more!
+A Perl refresher on basic concepts as well as how to work with data from MySQL using various Perl data types
+A chapter on object-oriented Perl
+How to the use Sphinx storage engine for full-text searching as well as Gearman to distribute tasks
+How to install and configure Apache 2.2 to work with mod_perl 2.0
+How to use mod_perl handlers to develop web applications, including working with Ajax
+A sample search engine application that puts together the various technologies discussed in the book
+Who this book is for
+
+This book is for developers who want to write applications using
+MySQL, memcached, Apache, and Perl, and are interested in improving
+the development process and efficiency.
+
+Wrox Professional guides are planned and written by working
+programmers to meet the real-world needs of programmers, developers,
+and IT professionals. Focused and relevant, they address the issues
+technology professionals face every day. They provide examples,
+practical solutions, and expert education in new technologies, all
+designed to help programmers do a better job.

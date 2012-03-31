@@ -1,0 +1,38 @@
+Title: Learning Perl/Tk
+Author: Nancy Walsh
+ISBN10: 
+ISBN13: 9781565923140
+Cover:
+Publisher: O'Reilly Media
+PubDate: January 1999
+PageCount: 373
+PriceUS: 
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9781565923140.do
+AmazonLink:
+
+Learning Perl/Tk is a tutorial for Perl/Tk, the extension to Perl for
+creating graphical user interfaces. With Tk, Perl programs can be
+window-based rather than command-line based, with buttons, entry
+fields, listboxes, menus, and scrollbars. Originally developed for the
+Tcl language, the Perl port of the Tk toolkit liberates Perl
+programmers from the world of command-line options, STDIN, and STDOUT,
+allowing them to build graphical, event-driven applications for both
+Windows and UNIX.
+
+This book is aimed at Perl novices and experts alike. It explains the
+reasoning behind event-driven applications and drills in guidelines on
+how to best design graphical applications. It teaches how to implement
+and configure each of the Perl/Tk graphical elements step-by-step.
+Special attention is given to the geometry managers, which are needed
+to position each button, menu, label and listbox in the window frame.
+
+Although this book does not teach basic Perl, anyone who has written
+even the simplest Perl program should be able to learn Tk from this
+book. The writing is breezy and informal, and gets right to the point
+of what you need to know and why. The book is rife with illustrations
+that demonstrate how each element is drawn and how its configuration
+options affect its presentation.
+
+Learning Perl/Tk is for every Perl programmer who would like to
+implement simple, easy-to-use graphical interfaces.

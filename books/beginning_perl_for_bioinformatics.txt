@@ -1,0 +1,47 @@
+Title: Beginning Perl for Bioinformatics
+Author: James Tisdall
+ISBN10: 
+ISBN13: 9780596000806
+Cover:
+Publisher: O'Reilly Media
+PubDate: October 2001
+PageCount: 384
+PriceUS: $39.95
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596000806.do
+AmazonLink:
+
+With its highly developed capacity to detect patterns in data, Perl
+has become one of the most popular languages for biological data
+analysis. But if you're a biologist with little or no programming
+experience, starting out in Perl can be a challenge. Many biologists
+have a difficult time learning how to apply the language to
+bioinformatics. The most popular Perl programming books are often too
+theoretical and too focused on computer science for a non-programming
+biologist who needs to solve very specific problems.
+
+Beginning Perl for Bioinformatics is designed to get you quickly over
+the Perl language barrier by approaching programming as an important
+new laboratory skill, revealing Perl programs and techniques that are
+immediately useful in the lab. Each chapter focuses on solving a
+particular bioinformatics problem or class of problems, starting with
+the simplest and increasing in complexity as the book progresses. Each
+chapter includes programming exercises and teaches bioinformatics by
+showing and modifying programs that deal with various kinds of
+practical biological problems. By the end of the book you'll have a
+solid understanding of Perl basics, a collection of programs for such
+tasks as parsing BLAST and GenBank, and the skills to take on more
+advanced bioinformatics programming. Some of the later chapters focus
+in greater detail on specific bioinformatics topics. This book is
+suitable for use as a classroom textbook, for self-study, and as a
+reference.
+
+The book covers:
+
+Programming basics and working with DNA sequences and strings
+Debugging your code
+Simulating gene mutations using random number generators
+Regular expressions and finding motifs in data
+Arrays, hashes, and relational databases
+Regular expressions and restriction maps
+Using Perl to parse PDB records, annotations in GenBank, and BLAST output

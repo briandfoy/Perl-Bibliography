@@ -1,0 +1,44 @@
+Title: Programming the Perl DBI
+Author: Tim Bunce
+Author: Alligator Descartes
+ISBN10: 
+ISBN13: 9781565926998
+Cover:
+Publisher: O'Reilly Media
+PubDate: February 2000
+PageCount: 368
+PriceUS: $39.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9781565926998.do
+AmazonLink:
+
+One of the greatest strengths of the Perl programming language is its
+ability to manipulate large amounts of data. Database programming is
+therefore a natural fit for Perl, not only for business applications
+but also for CGI-based web and intranet applications.
+
+The primary interface for database programming in Perl is DBI. DBI is
+a database-independent package that provides a consistent set of
+routines regardless of what database product you use--Oracle, Sybase,
+Ingres, Informix, you name it. The design of DBI is to separate the
+actual database drivers (DBDs) from the programmer's API, so any DBI
+program can work with any database, or even with multiple databases by
+different vendors simultaneously.
+
+Programming the Perl DBI is coauthored by Alligator Descartes, one of
+the most active members of the DBI community, and by Tim Bunce, the
+inventor of DBI. For the uninitiated, the book explains the
+architecture of DBI and shows you how to write DBI-based programs. For
+the experienced DBI dabbler, this book reveals DBI's nuances and the
+peculiarities of each individual DBD.
+
+The book includes:
+
+An introduction to DBI and its design
+How to construct queries and bind parameters
+Working with database, driver, and statement handles
+Debugging techniques
+Coverage of each existing DBD
+A complete reference to DBI
+
+This is the definitive book for database programming in Perl.

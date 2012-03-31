@@ -1,0 +1,50 @@
+Title: Perl Best Practices: Standards and Styles for Developing Maintainable Code
+Author: Damian Conway
+ISBN10: 
+ISBN13: 9780596001735
+Cover:
+Publisher: O'Reilly Media
+PubDate: July 2005
+PageCount: 544 
+PriceUS: $39.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/9780596001735.do
+AmazonLink:
+
+Many programmers code by instinct, relying on convenient habits or a
+"style" they picked up early on. They aren't conscious of all the
+choices they make, like how they format their source, the names they
+use for variables, or the kinds of loops they use. They're focused
+entirely on problems they're solving, solutions they're creating, and
+algorithms they're implementing. So they write code in the way that
+seems natural, that happens intuitively, and that feels good.
+
+But if you're serious about your profession, intuition isn't enough.
+Perl Best Practices author Damian Conway explains that rules,
+conventions, standards, and practices not only help programmers
+communicate and coordinate with one another, they also provide a
+reliable framework for thinking about problems, and a common language
+for expressing solutions. This is especially critical in Perl, because
+the language is designed to offer many ways to accomplish the same
+task, and consequently it supports many incompatible dialects.
+
+With a good dose of Aussie humor, Dr. Conway (familiar to many in the
+Perl community) offers 256 guidelines on the art of coding to help you
+write better Perl code--in fact, the best Perl code you possibly can.
+The guidelines cover code layout, naming conventions, choice of data
+and control structures, program decomposition, interface design and
+implementation, modularity, object orientation, error handling,
+testing, and debugging.
+
+They're designed to work together to produce code that is clear,
+robust, efficient, maintainable, and concise, but Dr. Conway doesn't
+pretend that this is the one true universal and unequivocal set of
+best practices. Instead, Perl Best Practices offers coherent and
+widely applicable suggestions based on real-world experience of how
+code is actually written, rather than on someone's ivory-tower
+theories on howsoftware ought to be created.
+
+Most of all, Perl Best Practices offers guidelines that actually work,
+and that many developers around the world are already using. Much like
+Perl itself, these guidelines are about helping you to get your job
+done, without getting in the way.

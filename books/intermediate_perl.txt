@@ -1,0 +1,37 @@
+Title: Intermediate Perl
+Author: Randal L. Schwartz
+Author: brian d foy
+Author: Tom Phoenix
+ISBN10:
+ISBN13: 
+Cover:
+Publisher: O'Reilly Media
+PubDate: June 2012
+PageCount: 300
+PriceUS: $39.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/0636920012689.do
+AmazonLink: 
+
+Get a clear roadmap for improving your skills with Intermediate Perl,
+and gain working knowledge of Perl's objects, references, and
+modules—ingredients that make the language so versatile and effective.
+Written by the authors of the bestselling Llama book, Learning Perl,
+and updated for Perl 5.14, this book offers a gentle but thorough
+introduction to intermediate programming in Perl.
+
+Each chapter is small enough to be read in just an hour or two, ending
+with a series of exercises to help you practice what you've learned.
+If you’re familiar with the material in Learning Perl and have the
+ambition learn more, this book will take you much further into Perl's
+capabilities.
+
+Topics include:
+
+Packages and namespaces
+References and scoping, including regular expression references
+Manipulating complex data structures
+Object-oriented programming
+Writing and using modules
+Testing Perl code
+Contributing to CPAN

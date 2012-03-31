@@ -1,0 +1,27 @@
+Title: Learning Perl Student Workbook, 2nd Edition
+Author: brian d foy
+ISBN10: 
+ISBN13: 
+Cover:
+Publisher: O'Reilly Media
+PubDate: January 2012
+PageCount: 164
+PriceUS: $3.99
+SafariLink:
+WebsiteLink: http://shop.oreilly.com/product/0636920018469.do
+AmazonLink:
+
+If you're just getting started with Perl, this is the book you
+want—whether you're a programmer, system administrator, or web hacker.
+This is a workbook to accompany the 6th Edition of Learning Perl ("the
+Llama"), which covers recent changes to the language up to version
+5.14. Exercises are presented in the first half of the workbook, with
+the answers in the second.
+
+Topics include:
+
+Scalar Data / Lists and Arrays / Subroutines / Input and Output /
+Hashes / Regular Expressions / Control Structures / Perl Modules /
+File Tests / Directory Operations / Strings and Sorting / Smart
+Matching / Process Management / tSome Advanced Perl Techniques /
+Databases
