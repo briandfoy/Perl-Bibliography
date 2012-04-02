@@ -1,0 +1,12 @@
+Title: Perl by Example (4th Edition)
+Author: Ellie Quigley
+ISBN10: 0132381826
+ISBN13: 978-0132381826
+Cover:
+Publisher: Prentice Hall
+PubDate: November 15, 2007
+PageCount: 1008
+PriceUS:  $49.99
+SafariLink:
+PublisherLink: http://www.pearsonhighered.com/educator/product/Perl-by-Example/9780132381826.page
+AmazonLink: http://www.amazon.com/gp/product/0132381826/

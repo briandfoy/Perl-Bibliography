@@ -11,7 +11,7 @@ PubDate: February 2012
 PageCount: 1184
 PriceUS: $54.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596004927.do
+PublisherLink: http://shop.oreilly.com/product/9780596004927.do
 
 Adopted as the undisputed Perl bible soon after the first edition
 appeared in 1991, Programming Perl is still the go-to guide for this

@@ -1,0 +1,30 @@
+Title: UNIX and Perl to the Rescue!: A Field Guide for the Life Sciences (and Other Data-rich Pursuits)
+Author: Keith Bradnam
+Author: Ian Korf
+ISBN10: 0521169828
+ISBN13: 978-0521169820
+Cover:
+Publisher: Cambridge University Press
+PubDate: June 30, 2012
+PageCount: 400
+PriceUS: $48.00
+SafariLink:
+PublisherLink: http://www.cambridge.org/us/knowledge/isbn/item6617689/
+WebsiteLink: http://korflab.ucdavis.edu/Unix_and_Perl/
+AmazonLink: http://www.amazon.com/UNIX-Perl-Rescue-Sciences-Data-rich/dp/0521169828
+GoogleBooks: 
+
+Your research has generated gigabytes of data and now you need to
+analyse it. You hate using spreadsheets but it is all you know, so
+what else can you do? This book will transform how you work with large
+and complex data sets, teaching you powerful programming tools for
+slicing and dicing data to suit your needs. Written in a fun and
+accessible style, this step-by-step guide will inspire and inform
+non-programmers about the essential aspects of Unix and Perl. It shows
+how, with just a little programming knowledge, you can write programs
+that could save you hours, or even days. No prior experience is
+required and new concepts are introduced using numerous code examples
+that you can try out for yourself. Going beyond the basics, the
+authors touch upon many broader topics that will help those new to
+programming, including debugging and how to write in a good
+programming style.

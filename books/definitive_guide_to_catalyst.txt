@@ -1,0 +1,47 @@
+Title: The Definitive Guide to Catalyst
+Author: Kieren Diment
+Author: Matt Trout
+ISBN10: 
+ISBN13: 9781430223658
+Cover:
+Publisher: Apress, LLC
+PubDate: July 2009
+PageCount: 362
+PriceUS: $49.99
+SafariLink:
+PublisherLink: http://www.apress.com/9781430223658
+AmazonLink: 
+GoogleBooks: 
+
+Learn to build web applications with Catalyst, the popular open source
+web framework based on the Perl programming language. The Definitive
+Guide to Catalyst: Writing Extendable, Scalable, and Maintainable
+Perl–Based Web Applications is a definitive guide to Catalyst version
+5.8. This book contains
+
+Training materials for new and experience programmers.
+Worked examples and cookbook–style recipes of common web application programming tasks
+Fundamentals of web application design and best–practice application style
+
+What you’ll learn
+
+Write web applications with Catalyst and Perl.
+Design for extendability and code reuse.
+Understand deployment options for high– and low–traffic sites.
+Use DBIx::Class, Moose, and Template Toolkit.
+Understand the Catalyst dispatcher and request cycle.
+Deal with common web programming requirements: authentication and authorization, web services, sending e–mail, serving streaming media.
+
+Who this book is for
+
+The primary audience for this book is existing Perl programmers who
+want more information on writing robust maintainable and extendable
+web applications. This group is comprised of four subgroups:
+
+Experienced perl programmers wanting to update their web programming skills (for example, CGI.pm, mod_perl, and Mason programmers)
+Intermediate/Late beginner programmers wanting to learn rapid, extendable, maintainable web programming techniques in Perl
+System administrators and other non–web users of Perl (e.g., bioinformatics workers) who want to learn modern Perl web development techniques
+Existing catalyst programmers who want to learn about best practices for catalyst development
+
+This book is also for programmers who want to understand web
+application design and development more thoroughly.

@@ -9,7 +9,7 @@ PubDate: July 2005
 PageCount: 208
 PriceUS: $29.95
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596100926.do
+PublisherLink: http://shop.oreilly.com/product/9780596100926.do
 AmazonLink:
 
 

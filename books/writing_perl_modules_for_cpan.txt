@@ -1,0 +1,39 @@
+Title: Writing Perl Modules for CPAN
+Author: Sam Tregar
+ISBN10: 
+ISBN13: 9781590590188
+Cover:
+Publisher: Apress, LLC
+PubDate: August 2002
+PageCount: 312
+PriceUS: $34.96 
+SafariLink:
+PublisherLink: http://www.apress.com/9781590590188
+AmazonLink: 
+GoogleBooks: 
+
+Writing Perl Modules for CPAN offers Perl developers a comprehensive
+guide to using and contributing to the Comprehensive Perl Archive
+Network (CPAN). Starting with a general overview of CPAN's history,
+network topology, and navigational mechanisms, the book quickly brings
+you up-to-speed regarding how to search out and install available
+modules. However, in the true open source spirit, author and
+experienced Perl developer Sam Tregar teaches you how to not only use,
+but also contribute to CPAN via an in-depth discussion of module
+creation, submission, and maintenance.
+
+Beginning with a survey of basic design principles, Tregar takes care
+to discuss all issues relevant to developers wishing to create great
+Perl modules, including choosing a proper name, properly using Perl's
+POD (plain old documentation) feature, concepts surrounding functional
+and object-oriented API development, and much more. Tregar then
+proceeds with a complete dissertation of how modules should conform to
+CPAN module specifications, covering required distribution files and
+coding considerations, in addition to offering advice regarding proper
+module testing. After demonstrating how to create a module and prepare
+it for release, Tregar guides you through the CPAN module submission
+process and discusses module maintenance once the module has been
+contributed to the CPAN service.
+
+Writing Perl Modules for CPAN is an indispensable guide for anyone
+wishing to make the most of the CPAN service.

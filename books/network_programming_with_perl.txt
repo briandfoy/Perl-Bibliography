@@ -1,0 +1,27 @@
+Title: Network Programming with Perl
+Author: Lincoln D. Stein
+ISBN10: 0201615711
+ISBN13: 9780201615715
+Cover:
+Publisher: Addison-Wesley Professional
+PubDate: 2001
+PageCount: 784
+PriceUS: $54.99  
+SafariLink:
+PublisherLink: http://www.pearsonhighered.com/educator/product/Network-Programming-with-Perl/9780201615715.page
+AmazonLink: 
+GoogleBooks: 
+
+Network Programming with Perl is a comprehensive, example-rich guide
+to creating network-based applications using the Perl programming
+language. Among its many capabilities, modern Perl provides a
+straightforward and powerful interface to TCP/IP, and this book shows
+how to leverage these capabilities to create robust, maintainable, and
+efficient custom client/server applications. The book quickly moves
+beyond the basics to focus on high-level, application programming
+concepts, tools, and techniques. Students will find a review of basic
+networking concepts and Perl fundamentals, including Perl's I/O
+functions, process model, and object-oriented extensions. In addition,
+the book examines a collection of the best third-party modules in the
+Comprehensive Perl Archive Network, including existing network
+protocols for e-mail, news, and the Web.

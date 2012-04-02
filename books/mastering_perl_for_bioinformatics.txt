@@ -8,7 +8,7 @@ PubDate: September 2003
 PageCount: 398
 PriceUS: $49.99 
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596003074.do
+PublisherLink: http://shop.oreilly.com/product/9780596003074.do
 AmazonLink:
 
 Historically, programming hasn't been considered a critical skill for

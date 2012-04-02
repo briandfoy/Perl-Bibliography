@@ -9,7 +9,7 @@ PubDate: May 2009
 PageCount: 512
 PriceUS: $44.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596520694.do
+PublisherLink: http://shop.oreilly.com/product/9780596520694.do
 AmazonLink:
 
 This cookbook provides more than 100 recipes to help you crunch data

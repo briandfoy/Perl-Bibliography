@@ -1,0 +1,28 @@
+Title: Beginning Perl Web Development
+Author: Steve Suehring
+ISBN10: 
+ISBN13: 9781590595312
+Cover:
+Publisher: Apress, LLC
+PubDate: November 2005
+PageCount: 376
+PriceUS: $39.99
+SafariLink:
+PublisherLink: http://www.apress.com/9781590595312
+AmazonLink: 
+GoogleBooks: 
+
+Beginning Perl Web Development: From Novice to Professional introduces
+you to the world of Perl Internet application development. This book
+tackles all areas crucial to developing your first web applications
+and includes a powerful combination of real-world examples coupled
+with advice. Topics range from serving and consuming RSS feeds, to
+monitoring Internet servers, to interfacing with e-mail. You’ll learn
+how to use Perl with ancillary packages like Mason and Nagios.
+
+Though not version-specific, this book is an ideal read if you have
+had some grounding in Perl basics and now want to move into the world
+of web application development. Author Steve Suehring emphasizes the
+security implications of Perl, drawing on years of experience teaching
+readers how to think safe, avoid common pitfalls, and produce
+well-planned, secure code.

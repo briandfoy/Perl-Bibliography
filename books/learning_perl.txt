@@ -10,7 +10,7 @@ PubDate: June 2011
 PageCount: 388
 PriceUS: $39.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/0636920018452.do
+PublisherLink: http://shop.oreilly.com/product/0636920018452.do
 AmazonLink: http://www.amazon.com/Learning-Perl-Randal-L-Schwartz/dp/1449303587/ref=as_li_tf_sw?&linkCode=wsw&tag=scriperl-20
 
 If you're just getting started with Perl, this is the book you

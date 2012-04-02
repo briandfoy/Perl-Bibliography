@@ -1,0 +1,27 @@
+Title: Genomic Perl
+Author: Rex A. Dwyer
+ISBN10: 
+ISBN13: 9780521801775
+Cover:
+Publisher: Cambridge University Press
+PubDate: December 2002
+PageCount: 352
+PriceUS: $90.00
+SafariLink:
+PublisherLink: http://www.cambridge.org/us/knowledge/isbn/item1168671/
+WebsiteLink: 
+AmazonLink: 
+GoogleBooks: 
+
+In this introduction to computational molecular biology, Rex Dwyer
+explains many basic computational problems and gives concise, working
+programs to solve them in the Perl programming language. With minimal
+prerequisites, he covers the biological background for each problem,
+develops a model for the solution, and then introduces the Perl
+concepts needed to implement the solution. The chapters discuss
+pairwise and multiple sequence alignment, fast database searches for
+homologous sequences, protein motif identification, genome
+rearrangement, physical mapping, phylogeny reconstruction, satellite
+identification, sequence assembly, gene finding, and RNA secondary
+structure. Concrete examples and a step-by-step approach enable
+readers to grasp the computational and statistical methods.

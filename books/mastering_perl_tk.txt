@@ -9,7 +9,7 @@ PubDate: January 2002
 PageCount: 768
 PriceUS: $49.99 
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9781565927162.do
+PublisherLink: http://shop.oreilly.com/product/9781565927162.do
 AmazonLink:
 
 Perl/Tk is the marriage of the Tk graphical toolkit with Perl, the

@@ -8,7 +8,7 @@ PubDate: January 2004
 PageCount: 142
 PriceUS: $9.95
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596005030.do 
+PublisherLink: http://shop.oreilly.com/product/9780596005030.do 
 AmazonLink:
 
 Most Perl programmers know about the Perl debugger--the nifty little

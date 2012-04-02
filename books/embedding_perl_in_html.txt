@@ -1,0 +1,48 @@
+Title: Embedding Perl in HTML with Mason
+Author: Dave Rolsky
+Author: Ken Williams
+ISBN10: 
+ISBN13: 9780596002251
+Cover:
+Publisher: O'Reilly Media
+PubDate: October 2002
+PageCount: 320
+PriceUS:  
+SafariLink:
+WebsiteLink: http://www.masonbook.com/book/
+PublisherLink: http://shop.oreilly.com/product/9780596002251.do
+AmazonLink: 
+GoogleBooks: 
+
+Mason doesn't aim to be the one true Perl-based templating system for
+building web sites, but it's led many programmers to abandon their
+custom solutions when they've seen how much easier using Mason can be.
+It's a powerful, open source, Perl-based web site development and
+delivery engine, with features that make it an ideal backend for high
+load sites serving dynamic content. Mason uses a concept called
+components: a mix of HTML, Perl, and special Mason commands. These
+components can be entire web pages, or bits of HTML that can be
+embedded in top-level components. Shared and reusable, these
+components greatly simplify site maintenance: when you change a shared
+component, you instantly change all pages that refer to it.
+
+Although using Mason isn't difficult, creating a Mason-based site can
+be tricky. Embedding Perl in HTML with Mason, written by members of
+Mason's core development team, shows you how to take advantage of
+Mason's strengths while avoiding the obstacles that inexperienced
+users may encounter. Mason's unique features, when used properly, can
+streamline the design of a web site or application. This concise book
+covers these features from several angles, and includes a study of the
+authors' sample site where these features are used.
+
+Embedding Perl in HTML with Mason shows you how to create large,
+complex, dynamically driven web sites that look good and are a snap to
+maintain. You'll learn how to visualize multiple Mason-based solutions
+to any given problem and select among them. The book covers the latest
+line of Mason development 1.1x, which has many new features, including
+line number reporting based on source files, sub-requests, and easier
+use as a CGI. The only book to cover this important tool, Embedding
+Perl in HTML with Mason is essential reading for any Perl programmer
+who wants to simplify web site design. Learn how to use Mason, and
+you'll spend more time making things work, and less time reinventing
+the wheel.

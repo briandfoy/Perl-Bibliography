@@ -10,7 +10,7 @@ PubDate: May 2006
 PageCount: 304
 PriceUS: $29.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596526740.do
+PublisherLink: http://shop.oreilly.com/product/9780596526740.do
 AmazonLink:
 
 With more than a million dedicated programmers, Perl has proven to be

@@ -1,0 +1,40 @@
+Title: Pro Perl
+Author: Peter Wainwright
+ISBN10: 
+ISBN13: 9781590594384
+Cover:
+Publisher: Apress, LLC
+PubDate: March 2005
+PageCount: 1064
+PriceUS: $41.99 
+SafariLink:
+PublisherLink: http://www.apress.com/9781590594384
+AmazonLink: 
+GoogleBooks: 
+
+Over the years, Perl has grown from an elegant scripting tool into a
+mature and full-featured language for application development,
+boasting object-oriented programming, a flexible threading model,
+built-in support for Unicode, and a thriving community. Available on
+almost every platform, and offering a comprehensive library of
+modules, there is no task too big or small for Perl to tackle.
+
+Pro Perl helps you master the key features and complexities of this
+powerful language. Aimed at intermediate and advanced developers
+alike, the material assumes some general knowledge of programming
+concepts but not necessarily prior Perl experience. However, given the
+expansive coverage of core language topics, Pro Perl also serves as a
+valuable guide to seasoned Perl programmers seeking to push their
+proficiency to the next level.
+
+Using a depth-first approach to aid learning of advanced concepts,
+you’re provided with detailed examinations of many key topics,
+including regular expressions, networking, modules and packages,
+object-oriented development, and much more. Pro Perl seeks to provide
+developers with not only the answers to their programming questions,
+but also advanced ideas and related concepts that expand the
+developer's understanding of Perl as a language.
+
+This edition of Pro Perl offers updated and expanded content, and
+improved organization by combining material from previous editions of
+Professional Perl Programming and Professional Perl Development.

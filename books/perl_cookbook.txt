@@ -9,7 +9,7 @@ PubDate: August 2003
 PageCount: 966
 PriceUS: $49.95
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596003135.do
+PublisherLink: http://shop.oreilly.com/product/9780596003135.do
 AmazonLink:
 
 Find a Perl programmer, and you'll find a copy of Perl Cookbook

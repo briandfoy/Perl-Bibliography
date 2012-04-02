@@ -1,0 +1,41 @@
+Title: Web Development with Apache and Perl
+Author: Theo Petersen
+ISBN10: 1930110065
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co. 
+PubDate: 2002
+PageCount: 424
+PriceUS: $44.95 
+SafariLink:
+PublisherLink: http://www.manning.com/petersen/
+AmazonLink: 
+GoogleBooks: 
+
+Open source tools provide a powerful and flexible environment for web
+development and maintenance. If your site has complex business rules
+or server logic, then you need more than just an interface builder.
+You need a strong application language with effective tools ready at
+hand. Perl's strengths make it a natural choice.
+
+Did you know you can easily build a site with features like message
+forums, chat, session management, custom preferences and other
+features your users will love? This book shows you how. But it is more
+than a programming book. It covers a wide spectrum of practical issues
+and how to handle them, such as when to use a database, what
+information needs to be secure (and how to secure it), and how to keep
+traffic from crippling your site. It will teach you the empowering use
+of ready-made modules so you don't have to reinvent the wheel. And it
+will even teach you how to successfully advocate the use of Open
+Source tools in your company.
+
+What's Inside:
+
+CGI and mod_perl programming
+mod_ssl, mod_rewrite and other Apache modules
+Using DBI with databases
+HTML::Mason and Template Toolkit for embedded scripting
+User login and session management
+Performance and system monitoring tools
+Growth planning and disaster recovery
+Sample layouts for community, corporate and e-commerce sites

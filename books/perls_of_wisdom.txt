@@ -1,0 +1,20 @@
+Title: Randal Schwartz's Perls of Wisdom
+Author: Randal Schwartz
+ISBN10: 
+ISBN13: 9781590593233
+Cover:
+Publisher: Apress, LLC
+PubDate: December 15, 2004
+PageCount: 350
+PriceUS: $34.99
+SafariLink:
+PublisherLink: http://www.apress.com/9781590593233
+AmazonLink: 
+GoogleBooks: 
+
+Randal Schwartz's Perls of Wisdom is a collection of more than 70
+columns from popular and prolific Perl columnist Randal Schwartz.
+These insightful pieces cover everything from Perl basics to how to
+decompose XML using an HTML parser. Schwartzs unique writing style and
+(sometimes) truly twisted use of Perl makes for exciting reading for
+those who want to enhance their Perl skills.

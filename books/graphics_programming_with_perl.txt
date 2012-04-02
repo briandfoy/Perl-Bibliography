@@ -1,0 +1,45 @@
+Title: Graphics Programming with Perl
+Author: Martien Verbruggen
+ISBN10: 1930110022
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co. 
+PubDate: 2002
+PageCount: 328
+PriceUS: $39.95 
+SafariLink:
+PublisherLink: http://manning.com/verbruggen/
+AmazonLink: 
+GoogleBooks: 
+
+An increasing number of tasks in application programming and web
+design requires creating and manipulating graphics. Perl is a powerful
+and flexible language that is not commonly associated with graphics
+programming. The speed of developing in Perl plus the large number of
+freely available Perl graphics modules, make it an excellent option
+for the rapid development of graphics applications.
+
+Graphics Programming with Perl is a guide to the graphics and imaging
+modules and tools available to the Perl programmer. It covers subjects
+ranging from drawing your own pictures and dynamic graphics for web
+pages to rendering three-dimensional scenes and manipulating
+individual image pixels. The text is liberally illustrated with
+example code and programs that show how to achieve common, and
+sometimes not so common, graphics programming tasks. For the even less
+common tasks, the book shows you how to write your own modules.
+
+What's inside:
+
+How to create charts and graphs
+Serving graphics content to the WWW with CGI
+How to modularize your graphics code, and re-use it
+Code to manipulate image pixels (and how to do it fast)
+How to work with text in graphics
+A complete reference for Image::Magick
+Examples you can use and build on:
+Adding watermarks to your images
+Creating thumbnails
+Dynamic web pages with charts
+Building your own convolution filters
+A web photo album
+3D animation with OpenGL and Renderman

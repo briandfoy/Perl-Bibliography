@@ -1,0 +1,42 @@
+Title: Data Munging with Perl
+Author: David Cross
+ISBN10: 1930110006
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co
+PubDate: 2001
+PageCount: 304
+PriceUS:  $41.95
+SafariLink:
+PublisherLink: http://manning.com/cross/
+AmazonLink: 
+GoogleBooks: 
+
+Your desktop dictionary may not include it, but 'munging' is a common
+term in the programmer's world. Many computing tasks require taking
+data from one computer system, manipulating it in some way, and
+passing it to another. Munging can mean manipulating raw data to
+achieve a final form. It can mean parsing or filtering data, or the
+many steps required for data recognition. Or it can be something as
+simple as converting hours worked plus pay rates into a salary cheque.
+
+This book shows you how to process data productively with Perl. It
+discusses general munging techniques and how to think about data
+munging problems. You will learn how to decouple the various stages of
+munging programs, how to design data structures, how to emulate the
+Unix filter model, etc. If you need to work with complex data formats
+it will teach you how to do that and also how to build your own tools
+to process these formats. The book includes detailed techniques for
+processing HTML and XML. And, it shows you how to build your own
+parsers to process data of arbitrary complexity.
+
+If you are a programmer who munges data, this book will save you time.
+It will teach you systematic and powerful techniques using Perl. If
+you are not a Perl programmer, this book may just convince you to add
+Perl to your repertoire.
+
+What's inside:
+
+Using CPAN modules like Number::Format, Date::Manip, Text::CSV_XS
+Making your code concise using Perl's special variables (like $/, $? and $_)
+Building data parsers using Parse::RecDescent

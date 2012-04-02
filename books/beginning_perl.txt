@@ -1,0 +1,50 @@
+Title: Beginning Perl
+Author: James Lee
+ISBN10: 
+ISBN13: 9781430227939
+Cover:
+Publisher: Apress, LLC
+PubDate: April 2010
+PageCount: 464
+PriceUS: $39.99
+SafariLink:
+PublisherLink: http://www.apress.com/9781430227939
+AmazonLink: 
+GoogleBooks: 
+
+This is a book for those of us who believed that we didn’t need to
+learn Perl, and now we know it is more ubiquitous than ever. Perl is
+extremely flexible and powerful, and it isn’t afraid of Web 2.0 or the
+cloud. Originally touted as the duct tape of the Internet, Perl has
+since evolved into a multipurpose, multiplatform language present
+absolutely everywhere: heavy-duty web applications, the cloud, systems
+administration, natural language processing, and financial
+engineering. Beginning Perl, Third Edition provides valuable insight
+into Perl’s role regarding all of these tasks and more.
+
+Commencing with a comprehensive overview of language basics, you’ll
+learn all about important concepts such as Perl’s data types and
+control flow constructs. This material sets the stage for a discussion
+of more complex topics, such as writing custom functions, using
+regular expressions, and file input and output. Next, the book moves
+on to the advanced topics of object-oriented programming, modules, web
+programming, and database administration with Perl’s powerful database
+interface module, DBI. The examples and code provided offer you all of
+the information you need to start writing your own powerful scripts to
+solve the problems listed above, and many more.
+
+Whether you are a complete novice or an experienced programmer,
+Beginning Perl, Third Edition offers an ideal guide to learning Perl.
+
+What you’ll learn
+
+How to use the power of Perl
+How to handle Perl data structures
+How to build database applications regardless of the underlying database
+How to parse complex data
+How to write industrial-strength object-oriented Perl
+How to start web programming in Perl
+Who this book is for
+
+This book is for programmers of all shades and persuasions who thought
+they could do without Perl. Think again.

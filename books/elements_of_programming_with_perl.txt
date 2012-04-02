@@ -1,0 +1,38 @@
+Title: Elements of Programming with Perl
+Author: Andrew L. Johnson
+ISBN10: 1884777805
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co
+PubDate: 1999 
+PageCount: 368
+PriceUS: $34.95  
+SafariLink:
+PublisherLink: http://www.manning.com/johnson/
+AmazonLink: 
+GoogleBooks: 
+
+As the complexity of web sites grows, more and more webmasters need to
+acquire programming skills. Naturally, such persons are inclined to
+learn Perl, the "language of the web." However, there has been no book
+to treat Perl as the first programming language; every Perl book
+assumes that the reader can program already.
+
+Until now.
+
+Elements of Programming with Perl is a general introduction to
+programming, using Perl as the implementation language. It starts at
+the beginning, teaching programming style, structure, and design. It
+covers all the fundamental elements of Perl (e.g., pattern matching
+and text processing) and proceeds to advanced concepts, including
+modular programming, abstract data structures, and object oriented
+programming.
+
+Elements of Programming with Perl contains numerous examples and
+diagrams that illustrate concepts, algorithms and techniques. Complete
+example programs show the new programmer how to tie concepts together
+to solve real-world problems.
+
+Elements of Programming with Perl is designed for the new programmer
+who needs to know Perl, and for the regular Perl user who would like
+to improve his or her programming skills.

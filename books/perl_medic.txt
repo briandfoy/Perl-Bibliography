@@ -1,0 +1,32 @@
+Title: Perl Medic: Transforming Legacy Code
+Author: Peter J. Scott
+ISBN10: 0201795264
+ISBN13: 978-0201795264
+Cover:
+Publisher: Addison-Wesley Professional
+PubDate: March 15, 2004
+PageCount: 336
+PriceUS: $39.99
+SafariLink:
+PublisherLink: 
+AmazonLink: http://www.amazon.com/Perl-Medic-Transforming-Legacy-Code/dp/0201795264
+GoogleBooks: 
+
+This book is about taking over Perl code, whether written by someone
+else or by yourself at an earlier time. Developers regularly estimate
+that they spend 60 to 80 percent of their time working with existing
+code. Many problems of code inheritance are common to all languages,
+but the nature of the language makes Perl especially tricky. The
+reason why is that Perl is similar to English - bursting with
+irregular verbs, consistent only when it's convenient, borrowing terms
+from other languages, and providing many ways to say the same thing.
+In fact, Perl developers have a motto with the abbreviation TMTOWTDI:
+There's More Than One Way To Do It. While this flexibility is one of
+the language's strengths, it also makes it extremely difficult when
+you are faced with an existing piece of code. There are millions of
+lines of Perl code being used all over the Web; much of it was built
+on an ad hoc basis, the creators never imagining that the code would
+still be in use months or years later. This book will be the resource
+all Perl programmers need to understand someone else's code, even when
+it's bad; repair it; convert it to a better style; upgrade it to the
+latest version of Perl; maintain it; and find and fix its bugs.

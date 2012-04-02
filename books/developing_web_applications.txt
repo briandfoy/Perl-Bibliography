@@ -8,8 +8,8 @@ PubDate: June 2009
 PageCount: 864
 PriceUS:  $49.99
 SafariLink:
-WebsiteLink: 
-AmazonLink:
+PublisherLink: http://www.wrox.com/WileyCDA/WroxTitle/productCd-0470414642.html
+AmazonLink: http://www.amazon.com/Developing-Applications-Apache-memcached-Programmer/dp/0470414642
 
 Adding a cache layer to the popular LAMP stack is becoming the common
 solution to significantly reduce the load on back-end databases, and

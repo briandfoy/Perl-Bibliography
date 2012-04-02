@@ -9,7 +9,7 @@ PubDate: February 2000
 PageCount: 368
 PriceUS: $39.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9781565926998.do
+PublisherLink: http://shop.oreilly.com/product/9781565926998.do
 AmazonLink:
 
 One of the greatest strengths of the Perl programming language is its

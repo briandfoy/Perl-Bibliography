@@ -8,7 +8,7 @@ PubDate: July 2005
 PageCount: 544 
 PriceUS: $39.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596001735.do
+PublisherLink: http://shop.oreilly.com/product/9780596001735.do
 AmazonLink:
 
 Many programmers code by instinct, relying on convenient habits or a

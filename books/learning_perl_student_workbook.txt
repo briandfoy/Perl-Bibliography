@@ -8,7 +8,7 @@ PubDate: January 2012
 PageCount: 164
 PriceUS: $3.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/0636920018469.do
+PublisherLink: http://shop.oreilly.com/product/0636920018469.do
 AmazonLink:
 
 If you're just getting started with Perl, this is the book you

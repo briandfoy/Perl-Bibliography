@@ -1,0 +1,37 @@
+Title: Object Oriented Perl
+Author: Damian Conway
+ISBN10: 1884777791
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co.
+PubDate: 1999
+PageCount: 512
+PriceUS: $42.95 
+SafariLink:
+PublisherLink: http://www.manning.com/conway/
+AmazonLink: 
+GoogleBooks: 
+
+Object Oriented Perl is designed to provide anyone who is familiar
+with the basics of regular Perl programming with a complete
+introduction to the object-oriented features of Perl. The book moves
+from the very simplest applications through advanced applications such
+as generic programming, multiple dispatch, and object-oriented
+persistence. Thus, it offers a much-needed resource for persons new to
+Perl, as well as new and valuable insights and techniques for even the
+most accomplished Perl programmers.
+
+Beyond explaining the syntax and semantics of Perl's inbuilt
+object-oriented features, Object Oriented Perl explains how to apply
+those features in a wide range of programming techniques. Each
+technique is illustrated with complete examples.
+
+Object Oriented Perl also discusses the latest relevant Perl modules,
+which are freely available and can greatly simplify object-oriented
+development in Perl. In particular, it examines the new standard
+"fields" module and the associated pseudo-hash construct.
+
+No other book covers the topic of object-oriented software development
+in Perl in such breadth, to such depth, or in such a readable manner.
+Complete source code for Object Oriented Perl is available online to
+owners of the book.

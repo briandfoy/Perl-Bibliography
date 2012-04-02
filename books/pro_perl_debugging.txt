@@ -1,0 +1,31 @@
+Title: Pro Perl Debugging
+Author: Andy Lester
+Author: Richard Foley
+ISBN10: 
+ISBN13: 9781590594544
+Cover:
+Publisher: Apress, LLC
+PubDate: July 2005
+PageCount: 296
+PriceUS: $54.99
+SafariLink:
+PublisherLink: http://www.apress.com/9781590594544
+AmazonLink: 
+GoogleBooks: 
+
+Combining the best features of C, UNIX utilities, and regular
+expressions, Perl has grown as one of the most powerful and popular
+scripting languages. The valuable Perl is often used for system
+administration, text processing and Web programming. It is even being
+used for more exotic areas, like bioinformatics. Perl is supported by
+all of the most prominent operating systems, including Windows, Unix,
+OS/2, Amiga, and others.
+
+Pro Perl Debugging steps in to help resolve the dilemma of application
+testing and debugging—one of the biggest time commitments in a
+programmers daily routine. What this book will do is rescue you from
+substandard application testing practices. The book commences with
+several chapters that overview the debuggers basic features, then
+covers common debugging scenarios. The concluding portion examines
+debugger customization, alternative debugging utilities, and debugging
+best practices.

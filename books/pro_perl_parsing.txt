@@ -1,0 +1,27 @@
+Title: Pro Perl Parsing
+Author: Christopher M. Frenz
+ISBN10: 
+ISBN13: 9781590595046
+Cover:
+Publisher: Apress, LLC
+PubDate: August 2005
+PageCount: 272
+PriceUS: $38.49
+SafariLink:
+PublisherLink: http://www.apress.com/9781590595046
+AmazonLink: 
+GoogleBooks: 
+
+Perl, one of the world’s most diffuse programming languages, was born
+out of the need to resolve the creator's dissatisfaction with what
+were at the time standard data-parsing solutions. Indeed, since the
+1.0 release in 1987, Perl has been heralded for its powerful parsing
+capabilities features that are further enhanced through the thousands
+of Perl extensions made available through CPAN (the Comprehensive Perl
+Archive Network).
+
+Pro Perl Parsing begins with several chapters devoted to key parsing
+principles, discussing topics pertinent to regular expressions,
+parsing grammars, and parsing techniques. This material sets the stage
+for later chapters, which introduce numerous and powerful CPAN parsing
+modules, and provide an ample supply of example applications.

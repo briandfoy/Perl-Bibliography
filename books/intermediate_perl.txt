@@ -10,7 +10,7 @@ PubDate: June 2012
 PageCount: 300
 PriceUS: $39.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/0636920012689.do
+PublisherLink: http://shop.oreilly.com/product/0636920012689.do
 AmazonLink: 
 
 Get a clear roadmap for improving your skills with Intermediate Perl,

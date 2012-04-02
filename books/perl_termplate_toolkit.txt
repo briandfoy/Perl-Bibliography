@@ -1,0 +1,59 @@
+Title: Perl Template Toolkit
+Author: Darren Chamberlain
+Author: Dave Cross
+Author: Andy Wardley
+ISBN10: 
+ISBN13: 9780596004767
+Cover:
+Publisher: O'Reilly Media
+PubDate: December 2003
+PageCount: 592
+PriceUS: $39.95 
+SafariLink:
+PublisherLink: http://shop.oreilly.com/product/9780596004767.do
+AmazonLink: 
+GoogleBooks: 
+
+Among the many different approaches to "templating" with Perl--such as
+Embperl, Mason, HTML::Template, and hundreds of other lesser known
+systems--the Template Toolkit is widely recognized as one of the most
+versatile. Like other templating systems, the Template Toolkit allows
+programmers to embed Perl code and custom macros into HTML documents
+in order to create customized documents on the fly. But unlike the
+others, the Template Toolkit is as facile at producing HTML as it is
+at producing XML, PDF, or any other output format. And because it has
+its own simple templating language, templates can be written and
+edited by people who don't know Perl. In short, the Template Toolkit
+combines the best features of its competitors, with ease-of-use and
+flexibility, resulting in a technology that's fast, powerful and
+extensible, and ideally suited to the production and maintenance of
+web content and other dynamic document systems.
+
+In Perl Template Toolkit you'll find detailed coverage of this
+increasingly popular technology. Written by core members of the
+technology's development team, the book guides you through the entire
+process of installing, configuring, using, and extending the Template
+Toolkit. It begins with a fast-paced but thorough tutorial on building
+web content with the Template Toolkit, and then walks you through
+generating and using data files, particularly with XML. It also
+provides detailed information on the Template Toolkit's modules,
+libraries, and tools in addition to a complete reference manual.
+
+Topics in the book include:
+
+Getting started with the template toolkit
+The Template language
+Template directives
+Filters
+Plugins
+Extending the Template Toolkit
+Accessing databases
+XML
+Advanced static web page techniques
+Dynamic web content and web applications
+
+The only book to cover this important tool, Perl Template Toolkit is
+essential reading for any Perl programmer who wants to create dynamic
+web content that is remarkably easy to maintain. This book is your
+surefire guide to implementing this fast, flexible, and powerful
+templating system.

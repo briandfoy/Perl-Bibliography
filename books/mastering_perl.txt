@@ -8,8 +8,8 @@ PubDate: July 2007
 PageCount: 344
 PriceUS: $39.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596527242.do
-AmazonLink: http://www.amazon.com/Mastering-Perl-brian-d-foy/dp/0596527241/ref=sr_1_1?s=books&ie=UTF8&qid=1333182166&sr=1-1
+PublisherLink: http://shop.oreilly.com/product/9780596527242.do
+AmazonLink: http://www.amazon.com/Mastering-Perl-brian-d-foy/dp/0596527241
 
 This is the third in O'Reilly's series of landmark Perl tutorials,
 which started with Learning Perl, the bestselling introduction that

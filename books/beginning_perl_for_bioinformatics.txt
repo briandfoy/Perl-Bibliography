@@ -8,7 +8,7 @@ PubDate: October 2001
 PageCount: 384
 PriceUS: $39.95
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596000806.do
+PublisherLink: http://shop.oreilly.com/product/9780596000806.do
 AmazonLink:
 
 With its highly developed capacity to detect patterns in data, Perl

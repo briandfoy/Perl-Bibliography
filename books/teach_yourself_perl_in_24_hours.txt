@@ -1,0 +1,26 @@
+Title: Sams Teach Yourself Perl in 24 Hours (3rd Edition)
+Author: Clinton Pierce
+ISBN10: 0672327937
+ISBN13: 978-0672327933
+Cover:
+Publisher: Sams
+PubDate: June 25, 2005
+PageCount: 480
+PriceUS: $34.99
+SafariLink: http://my.safaribooksonline.com/book/programming/perl/0672327937
+PublisherLink: http://www.informit.com/store/product.aspx?isbn=0672327937
+AmazonLink: http://www.amazon.com/Sams-Teach-Yourself-Hours-Edition/dp/0672327937
+GoogleBooks: 
+
+Learn Perl programming quickly and easily with 24 one-hour lessons in
+Sams Teach Yourself Perl in 24 Hours. The book's step-by-step lessons
+teach you the basics of Perl and how to apply it in web development
+and system administration. Plus, the third edition has been updated to
+include five chapters on new technologies, information on the latest
+version of Perl, and a look ahead to Perl 6. Sams Teach Yourself Perl
+in 24 Hours focuses on real-world development, teaching you how to:
+
+Effectively use Perl for large development projects using Perl modules
+Use Perl for data processing
+Utilize Perl as a "glue" language with other programming languages
+Use Perl as a web development language

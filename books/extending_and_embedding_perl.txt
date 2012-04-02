@@ -1,0 +1,39 @@
+Title: Extending and Embedding Perl
+Author: Tim Jenness
+Author: Simon Cozens
+ISBN10: 1930110820
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co
+PubDate: 2002
+PageCount: 384
+PriceUS: $44.95
+SafariLink:
+PublisherLink: http://www.manning.com/jenness/
+AmazonLink: 
+GoogleBooks: 
+
+Extending and Embedding Perl explains how to expand the functionality
+and usefulness of the Perl programming language and how to use Perl
+from C programs. It begins simply but also covers complex issues using
+real code examples from the Perl source. The book discusses how to
+write interfaces to C libraries (as well as C++ and Fortran
+libraries). It shows you how to implement Perl callbacks for C
+libraries, how to pass Perl hashes and arrays between Perl and C, and
+how to use the Perl Data Language infrastructure to improve the speed
+of array operations.
+
+Additionally, the book peers under the hood to see how the Perl
+programming language really works by looking at the interpreter. The
+make-up of Perl variables is discussed along with details on how a
+Perl program is parsed and converted to executable code.
+
+What's Inside:
+
+C For The Perl Programmer
+Basic and Advanced XS
+Embedding Perl in C Programs
+Perl Internals
+An API reference for the internal C interface to Perl
+A reference on the typemap system
+Embedding Perl into the mutt mail reader

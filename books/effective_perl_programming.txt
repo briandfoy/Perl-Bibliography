@@ -1,0 +1,14 @@
+Title: Effective Perl Programming, Second Edition
+Author: Joseph N. Hall
+Author: Joshua A. McAdams
+Author: brian d foy
+ISBN10: 0321496949
+ISBN13: 9780321496942
+Cover:
+Publisher: Addison-Wesley Professional
+PubDate: April 2010
+PageCount: 504
+PriceUS: $44.99
+SafariLink:
+PublisherLink: http://www.pearsonhighered.com/educator/product/Effective-Perl-Programming-Ways-to-Write-Better-More-Idiomatic-Perl-2E/9780321496942.page
+AmazonLink: 

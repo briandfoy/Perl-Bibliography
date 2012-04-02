@@ -1,0 +1,32 @@
+Title: Perl Debugged
+Author: Peter J. Scott
+Author: Ed Wright
+ISBN10: 0201700549
+ISBN13: 979-0201700540
+Cover:
+Publisher: Addison Wesley Publishing Company
+PubDate: March 27, 2001
+PageCount: 288
+PriceUS:  
+SafariLink:
+PublisherLink: 
+AmazonLink: http://www.amazon.com/Perl-Debugged-Peter-J-Scott/dp/0201700549
+GoogleBooks: 
+
+Perl Debugged provides the expertise and solutions developers require for coding better, faster, and more reliably in Perl. Focusing on debugging, the most vexing aspect of programming in Perl, this example-rich reference and how-to guide minimizes development, troubleshooting, and maintenance time resulting in the creation of elegant and error-free Perl code.
+
+Designed for the novice to intermediate software developer, Perl Debugged will save the programmer time and frustration in debugging Perl programs. Based on the authors’ extensive experience with the language, this book guides developers through the entire programming process, tackling the benefits, plights, and pitfalls of Perl programming. Beginning with a guided tour of the Perl documentation, the book progresses to debugging, testing, and performance issues, and also devotes a chapter to CGI programming in Perl. Throughout the book, the authors espouse defensible paradigms for improving the accuracy and performance of Perl code. In addition, Perl Debugged includes Scott and Wright’s "Perls of Wisdom" which summarize key ideas from each of the chapters, and an appendix containing a comprehensive listing of Perl debugger commands.
+
+In this exceptional reference and debugging guide, the authors cover every aspect of efficient Perl programming, including:
+
+* CGI programming–special tips for debugging this type of Perl program 
+* How to develop the proper mindset for developing and programming effectively in Perl 
+* Perl "gotchas"–how to understand them, work around them, and avoid them 
+* "Antibugging"–the authors’ rules of thumb on how to code defensively 
+* The Perl debugger –the authors’ guide to using this Perl built-in 
+* Common syntax errors and how to track down their causes 
+* Semantical errors–why code may appear correct but the programs do not work 
+* How to improve the performance of resource-hungry programs 
+* Tips and advice for programmers moving to Perl from other language environments
+
+Focusing on the process of Perl programming and guidelines for identifying and correcting mistakes, Perl Debugged helps the developer to write better Perl programs immediately and become better programmers in general.

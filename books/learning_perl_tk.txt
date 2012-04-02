@@ -8,7 +8,7 @@ PubDate: January 1999
 PageCount: 373
 PriceUS: 
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9781565923140.do
+PublisherLink: http://shop.oreilly.com/product/9781565923140.do
 AmazonLink:
 
 Learning Perl/Tk is a tutorial for Perl/Tk, the extension to Perl for

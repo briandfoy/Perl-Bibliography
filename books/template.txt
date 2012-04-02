@@ -1,23 +1,15 @@
-Title: Perl Pocket Reference, 5th Edition
-Author: Johan Vromans
+Title: 
+Author: 
 ISBN10: 
 ISBN13: 
 Cover:
-Publisher: O'Reilly Media
-PubDate: July 2011
-PageCount: 102
-PriceUS:  $12.99
+Publisher: 
+PubDate: 
+PageCount: 
+PriceUS:  
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/0636920018476.do
-AmazonLink:
+PublisherLink: 
+WebsiteLink: 
+AmazonLink: 
+GoogleBooks: 
 
-If you have a Perl programming question, you'll find the answer
-quickly in this handy, easy-to-use quick reference. The Perl Pocket
-Reference condenses and organizes stacks of documentation down to the
-most essential facts, so you can find what you need in a heartbeat.
-
-Updated for Perl 5.14, the 5th edition provides a summary of Perl
-syntax rules and a complete list of operators, built-in functions, and
-other features. It's the perfect companion to O'Reilly's authoritative
-and in-depth Perl programming books, including Learning Perl,
-Programming Perl, and the Perl Cookbook.

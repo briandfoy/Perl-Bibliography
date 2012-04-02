@@ -1,0 +1,30 @@
+Title: Higher-Order Perl: Transforming Programs with Programs
+Author: Mark Jason Dominus
+ISBN10: 1558607013
+ISBN13: 978-1558607019
+Cover:
+Publisher: Morgan Kaufmann
+PubDate: March 14, 2005
+PageCount: 600
+PriceUS: $75.95
+SafariLink:
+PublisherLink: http://store.elsevier.com/product.jsp?isbn=9781558607019
+WebsiteLink: http://hop.perl.plover.com/ 
+AmazonLink: http://www.amazon.com/Higher-Order-Perl-Transforming-Programs/dp/1558607013
+GoogleBooks: 
+
+Most Perl programmers were originally trained as C and Unix
+programmers, so the Perl programs that they write bear a strong
+resemblance to C programs. However, Perl incorporates many features
+that have their roots in other languages such as Lisp. These advanced
+features are not well understood and are rarely used by most Perl
+programmers, but they are very powerful. They can automate tasks in
+everyday programming that are difficult to solve in any other way. One
+of the most powerful of these techniques is writing functions that
+manufacture or modify other functions. For example, instead of writing
+ten similar functions, a programmer can write a general pattern or
+framework that can then create the functions as needed according to
+the pattern. For several years Mark Jason Dominus has worked to apply
+functional programming techniques to Perl. Now Mark brings these
+flexible programming methods that he has successfully taught in
+numerous tutorials and training sessions to a wider audience.

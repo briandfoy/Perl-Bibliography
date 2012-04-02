@@ -8,7 +8,7 @@ PubDate: February 2006
 PageCount: 304
 PriceUS: $29.95
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9781593270629.do
+PublisherLink: http://shop.oreilly.com/product/9781593270629.do
 AmazonLink:
 
 Most Perl programmers have been frustrated at one time or another

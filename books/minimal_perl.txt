@@ -1,0 +1,43 @@
+Title: Minimal Perl
+Author: Tim Maher
+ISBN10: 1932394508
+ISBN13: 
+Cover:
+Publisher: Manning Publications Co.
+PubDate: October 2006
+PageCount: 504
+PriceUS: $44.99
+SafariLink:
+PublisherLink: http://www.manning.com/maher/
+WebsiteLink: http://minimalperl.com/
+AmazonLink: 
+GoogleBooks: 
+
+Perl is a complex language that can be difficult to master. Perl
+advocates boast that "There's More Than One Way To Do It", but do you
+really want to learn several ways of saying the same thing to a
+computer?
+
+To make Perl more accessible, Dr. Tim Maher has over the years
+designed and taught an essential subset of the language that is
+smaller, yet practical and powerful. With this engaging book you can
+now benefit from "Minimal Perl", even if all you know about Unix is
+grep.
+
+You will learn how to write simple Perl commands (many just
+one-liners) that go far beyond the limitations of Unix utilities, and
+those of Linux, MacOS/X, etc. And you�ll acquire the more advanced
+Perl skills used in scripts by capitalizing on your knowledge of
+related Shell resources. Sprinkled throughout are many Unix-specific
+Perl tips.
+
+This book is especially suitable for system administrators,
+webmasters, and software developers.
+
+WHAT'S INSIDE:
+A simpler, yet still powerful Perl
+Development of concise commands and flexible scripts
+How to package custom software in reusable modules
+How to exploit CPAN modules to avoid reinventing the wheel
+Language features in tabular summaries
+100+ reusable programs for: system administration, web development (HTML, CGI, Forms), networking, databases, finance, text analysis, and more

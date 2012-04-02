@@ -8,8 +8,7 @@ PubDate: May 2009
 PageCount: 668
 PriceUS: $39.99
 SafariLink:
-WebsiteLink: http://shop.oreilly.com/product/9780596006396.do
-AmazonLink: 
+PublisherLink: http://shop.oreilly.com/product/9780596006396.do
 
 If you do systems administration work of any kind, you have to deal
 with the growing complexity of your environment and increasing demands
@@ -32,4 +31,8 @@ Effectively create, handle, and analyze log files
 Administer network name and configuration services, including NIS, DNS and DHCP
 Maintain, monitor, and map network services, using technologies and tools such as SNMP, nmap, libpcap, GraphViz and RRDtool
 Improve filesystem, process, and network security
-This edition includes additional appendixes to get you up to speed on technologies such as XML/XPath, LDAP, SNMP, and SQL. With this book in hand and Perl in your toolbox, you can do more with less -- fewer resources, less effort, and far less hassle.
+
+This edition includes additional appendixes to get you up to speed on
+technologies such as XML/XPath, LDAP, SNMP, and SQL. With this book in
+hand and Perl in your toolbox, you can do more with less -- fewer
+resources, less effort, and far less hassle.

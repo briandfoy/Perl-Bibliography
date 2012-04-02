@@ -1,0 +1,45 @@
+Title: Mastering Algorithms with Perl
+Author: Jarkko Hietaniemi 
+Author: John Macdonald
+Author: Jon Orwant
+ISBN10: 1565923987
+ISBN13: 9781565923980
+Cover:
+Publisher: O'Reilly Media
+PubDate: August 1999
+PageCount: 704
+PriceUS: $39.99 
+SafariLink:
+PublisherLink: http://shop.oreilly.com/product/9781565923980.do
+AmazonLink: http://www.amazon.com/Mastering-Algorithms-Perl-John-Macdonald/dp/1565923987
+
+Many programmers would love to use Perl for projects that involve
+heavy lifting, but miss the many traditional algorithms that textbooks
+teach for other languages. Computer scientists have identified many
+techniques that a wide range of programs need, such as:
+
+Fuzzy pattern matching for text (identify misspellings!)
+Finding correlations in data
+Game-playing algorithms
+Predicting phenomena such as Web traffic
+Polynomial and spline fitting
+
+Using algorithms explained in this book, you too can carry out
+traditional programming tasks in a high-powered, efficient,
+easy-to-maintain manner with Perl.
+
+This book assumes a basic understanding of Perl syntax and functions,
+but not necessarily any background in computer science. The authors
+explain in a readable fashion the reasons for using various classic
+programming techniques, the kind of applications that use them, and --
+most important -- how to code these algorithms in Perl.
+
+If you are an amateur programmer, this book will fill you in on the
+essential algorithms you need to solve problems like an expert. If you
+have already learned algorithms in other languages, you will be
+surprised at how much different (and often easier) it is to implement
+them in Perl. And yes, the book even has the obligatory fractal
+display program.
+
+There have been dozens of books on programming algorithms, some of
+them excellent, but never before has there been one that uses Perl.
